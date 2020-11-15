@@ -34,6 +34,7 @@ This is a list of some of the Cheminformatics resources that I use.  Rather than
 ### **Python Tools**
 
 **General**
+
 [Jupyter Notebooks](https://jupyter.org/) - Perhaps the greatest scientific development of my lifetime.  I don't know how I ever did science without a Jupyter notebook.  If you don't know what this is, stop reading now and click on the link.  In a nutshell, Jupyter notebooks provide a way of integrating documentation and workflows into a simple, easy to use tool.  Yes, I know that there are some minor annoyances (executing cells out of order), but these can be overcome with a little discipline.  Jupyter notebooks have become my standard means of sharing code with colleagues and with the community.  As the sticker on my laptop says "For the times when your Boss asks for Documentation".
 
 [JupyterLab](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906) - I know I should use JupyterLab more than I do. It provides some convenient ways of enhancing the standard Jupyter notebook workflow, but JupyterLab also has a nasty habit of not working with some Jupyter extensions. 
