@@ -96,7 +96,7 @@ This is a list of some of the Cheminformatics resources that I use.  Rather than
 
 [Minisom](https://github.com/JustGlowing/minisom) - Self organizing maps (SOMs) provide an easy means of grouping sets of related compounds.  Minisom provides an easy to use implementation thats good for datasets containing up to a few thousand molecules.  For bigger sets, try [Somoclu](https://github.com/peterwittek/somoclu).  I wrote a couple of blog posts about SOMS [here](http://practicalcheminformatics.blogspot.com/2018/10/self-organizing-maps-90s-fad-or-useful.html) and [here](http://practicalcheminformatics.blogspot.com/2018/10/self-organizing-maps-code-part-2.html). 
 
-[RAPIDS](https://rapids.ai/) - This library from Nvidia enables simple applications of a variety of data science and machine learning operations on GPUs.  It can provide a quick and easy way of speeding up your workflows.  I wrote a blog post on RAPIDS [here](http://practicalcheminformatics.blogspot.com/2020/06/wicked-fast-cheminformatics-with-nvidia.html). 
+[RAPIDS](https://rapids.ai/) - This library from Nvidia enables the simple application of a variety of data science and machine learning operations on GPUs.  It can provide a quick and easy way of speeding up your workflows.  I wrote a blog post on RAPIDS [here](http://practicalcheminformatics.blogspot.com/2020/06/wicked-fast-cheminformatics-with-nvidia.html). 
 
 
 ### Databases
