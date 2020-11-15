@@ -107,7 +107,7 @@ This is a list of some of the Cheminformatics resources that I use.  Rather than
 
 **Open Source Tools**
 
-[FPSim2](https://github.com/chembl/FPSim2) - this package, from the same group at the EBI that produces the ChEMBL database, provides a fast easy means of performing fingerprint similarity searches.  I wrote a blog post about this [here](https://practicalcheminformatics.blogspot.com/2020/10/what-do-molecules-that-look-like-this.html). 
+[FPSim2](https://github.com/chembl/FPSim2) - this package, from the same group at the EBI that produces the ChEMBL database, provides a fast easy means of performing fingerprint similarity searches.  I wrote a blog post about FPSim2 [here](https://practicalcheminformatics.blogspot.com/2020/10/what-do-molecules-that-look-like-this.html). 
 
 **Commercial Tools**
 
