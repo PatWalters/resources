@@ -40,6 +40,7 @@ This is a list of some of the Cheminformatics resources that I use.  Rather than
 
 
 **Python Libraries I Can't Live Without**
+
 [Pandas](https://pandas.pydata.org/) - I spent about a dozen years as an R programmer.  During that time I got used to thinking about data tables as dataframes in memory.  Pandas provides an incredibly robust, fast, and well thought out set up tools for dealing with tabular data.  If you want to do something with a table, Pandas probably already knows how.  Thanks to efforts by the RDKit community, we can also store and display chemical structures in Pandas dataframes using the [PandasTools](https://www.rdkit.org/docs/source/rdkit.Chem.PandasTools.html) library. 
 
 [numpy](https://numpy.org/) - Need to do any sort of operation with vectors or matrices? Numpy makes it fast and easy.  
@@ -50,6 +51,7 @@ This is a list of some of the Cheminformatics resources that I use.  Rather than
 
 
 **Python Chemistry Libraries I Can't Live Without**
+
 [The RDKit](https://www.rdkit.org/) - My goto (a command you should never use) library for Open Source Cheminformatics.  The RDKit has a large and supportive community that is always eager to answer questions on the mailing list.  The UGM has become one of the best meetings of the year, and Greg Landrum and friends are making the code better with each release. 
 
 [OpenBabel](http://openbabel.org/wiki/Main_Page) - The OG of Chemistry libraries.  If you want to process some obscure (or not obscure) file format, Open Babel is the way to go.  The library has gotten kind of big, but it has a number of unique capabilities. 
@@ -72,14 +74,17 @@ This is a list of some of the Cheminformatics resources that I use.  Rather than
 
 
  **Molecule Manipulation**
+ 
 [MayaChem Tools](http://www.mayachemtools.org/) - My friend Manish Sud has created a Swiss army knife of Python and Perl Scripts that use Open Source software to perform a wide array of molecule manipulation tasks including [positional scanning](https://practicalcheminformatics.blogspot.com/2020/04/positional-analogue-scanning.html), conformer generation, library enumeration and filtering, R-group decomposition, and numerous other capabilities.  MayaChem Tools also has several scripts for performing analyses with PyMol.  These scripts are useful by themselves or as starting points for you own projects. 
 
 
 **Data Visualization**
+
 [Seaborn](https://seaborn.pydata.org/) - [Matplotlib](https://matplotlib.org/) is the standard for plotting in Python, it works but doesn't make the most attractive plots.  Seaborn builds on Matplotlib, makes it a bit easier to use, and generates plots that look a whole lot better.  I wrote a [blog post](http://practicalcheminformatics.blogspot.com/2020/10/a-collection-of-things-i-freqently.html) that shows some of my favorite tricks with Seaborn. 
 
 
 **Machine Learning Libraries**
+
 [SciKit Learn](https://scikit-learn.org/stable/) - This is the ultimate machine learning library, which has the ability to perform many different unsupervised (clustering, dimensionality reduction, etc) and supervised (random forest, SVM, KNN) machine learning methods. It also includes many methods for data processing and model validation. 
 
 [DeepChem](https://deepchem.io/) - Programming is like playing the piano, you don't learn it by reading books, you learn it by getting in there and doing it.  Probably the best way of learning to do machine learning for drug discovery is to mess around with the DeepChem codebase.  Bharath Ramsundar and Peter Eastman have implemented a host of useful methods and integrated a multitude of datasets.
@@ -99,10 +104,12 @@ This is a list of some of the Cheminformatics resources that I use.  Rather than
 
 ### Database Searching
 
-**Commercial Tools**
+**Open Source Tools**
+
 [FPSim2](https://github.com/chembl/FPSim2) - this package, from the same group at the EBI that produces the ChEMBL database, provides a fast easy means of performing fingerprint similarity searches.  I wrote a blog post about this [here](https://practicalcheminformatics.blogspot.com/2020/10/what-do-molecules-that-look-like-this.html). 
 
 **Commercial Tools**
+
 [ChemFp](https://chemfp.com/) - Andrew Dalke probably knows more about chemical fingerprints than anyone in the world.  His package ChemFp provides several commandline tools and a Python library for fast substructure and similarity searching. 
 
 [Arthor](https://www.nextmovesoftware.com/arthor.html) - Roger Sayle at NextMove software is the master of optimization and blazing fast code.  The Arthor package provides a convenient way of quickly performing substructure and similarity searches in very large databases. 
