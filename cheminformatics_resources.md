@@ -5,11 +5,17 @@ This is a list of some of the Cheminformatics resources that I use.  Rather than
 ### **Blogs**
 
 [Practical Cheminformatics](https://practicalcheminformatics.blogspot.com/) - This is a blog where I post once a month or so. These posts typically contain code that demonstrates various aspects of cheminformatics; clustering, machine learning, data visualization, etc. I occasionally throw in posts containing opinions on things like AI and getting a job. 
+
 [Is Life Worth Living](https://iwatobipen.wordpress.com/) - A great blog from Iwatobipen (aka pen), whose posts are chock full of great code examples.  Pen always seems to be up on the latest methods and posts interesting examples on a variety of topics ranging from quantum chemistry to machine learning. 
+
 [The RDKit Blog](http://rdkit.blogspot.com/) - Greg Landrum is the primary contributor to, and BDFL, of the RDKit.  In addition to the latest and greatest features in the RDKit, Greg's posts also touch on a number of key issues in Cheminformatics, such as dealing with unbalanced datasets and the impact of fingerprint folding on similarity searching. 
+
 [Reverie Labs Engineering Blog](https://blog.reverielabs.com/) - The gang at Reverie Labs is doing some of the best work on applying machine learning in drug discovery.  Their blog provides useful insights for those applying machine learning at scale. 
+
 [The OpenBench Blog](https://opnbnch.substack.com/) - A number of thoughtful posts on ADME modeling and the ways that we validate models. 
+
 [Cheminformania](http://www.cheminformania.com/) - A set of very practical posts by Esben Jannik Bjerrum and friends that primarily focus on the applications of deep learning in drug discovery.  These posts provide several useful code examples.
+
 
 ### Getting Started
 
