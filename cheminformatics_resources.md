@@ -1,4 +1,4 @@
-### **A Highly Opinionated List of Cheminformatics Resources**
+### **A Highly Opinionated List of Open Source Cheminformatics Resources**
 
 This is a list of some of the Cheminformatics resources that I use.  Rather than a long list of links, this is an annotated collection of tools that I use regularly.  The order in which things are presented is a representation of my scattered thought processes and does not imply relative importance.  These are the views of one highly opinionated guy.  Your mileage may vary. 
 
@@ -56,8 +56,6 @@ This is a list of some of the Cheminformatics resources that I use.  Rather than
 
 [OpenBabel](http://openbabel.org/wiki/Main_Page) - The OG of Chemistry libraries.  If you want to process some obscure (or not obscure) file format, Open Babel is the way to go.  The library has gotten kind of big, but it has a number of unique capabilities. 
 
-[OpenEye Toolkits](https://www.eyesopen.com/cheminformatics) -  The OEChem library and its cousins have been developed tuned and battle tested over the last 20 years.  The code is fast, bulletproof, and well documented.  If you're building a production system, it's the only way to go.  **Note that this is a commercial product.** 
-
 [py3DMol](https://pypi.org/project/py3Dmol/) - This Python wrapper around the 3DMol.js library, written by David Koes, makes it easy to incorporate 3D chemical structures into a Jupyter notebook.  [Greg Landrum](https://nbviewer.jupyter.org/github/greglandrum/rdkit_blog/blob/master/notebooks/Trying%20py3Dmol.ipynb) and [Pen](https://birdlet.github.io/2019/10/02/py3dmol_example/) have some nice blog posts with some simple examples. [I](https://practicalcheminformatics.blogspot.com/2020/05/analyzing-sars-cov-2-main-protease-mpro.html) also have a post showing some uses of Py3DMol. 
 
 [Prody](http://prody.csb.pitt.edu/) - Do you want to work with proteins in Python? Then Prody is the tool for you.  Prody provides tools for reading and processing proteins, as well as implementing techniques like normal mode analysis.  In addition to its many capabilities, Prody is well documented and comes with a ton of examples. 
@@ -104,14 +102,4 @@ This is a list of some of the Cheminformatics resources that I use.  Rather than
 
 ### Database Searching
 
-**Open Source Tools**
-
 [FPSim2](https://github.com/chembl/FPSim2) - this package, from the same group at the EBI that produces the ChEMBL database, provides a fast easy means of performing fingerprint similarity searches.  I wrote a blog post about FPSim2 [here](https://practicalcheminformatics.blogspot.com/2020/10/what-do-molecules-that-look-like-this.html). 
-
-**Commercial Tools**
-
-[ChemFp](https://chemfp.com/) - Andrew Dalke probably knows more about chemical fingerprints than anyone in the world.  His package ChemFp provides several commandline tools and a Python library for fast substructure and similarity searching. 
-
-[Arthor](https://www.nextmovesoftware.com/arthor.html) - Roger Sayle at NextMove software is the master of optimization and blazing fast code.  The Arthor package provides a convenient way of quickly performing substructure and similarity searches in very large databases. 
-
-[SmallWorld](https://www.nextmovesoftware.com/smallworld.html) - This package from NextMove provides a different, and incredibly useful means of searching databases for compound analogs. 
