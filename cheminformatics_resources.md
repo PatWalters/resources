@@ -60,7 +60,7 @@ This is a list of some of the Cheminformatics resources that I use.  Rather than
 
 [Prody](http://prody.csb.pitt.edu/) - Do you want to work with proteins in Python? Then Prody is the tool for you.  Prody provides tools for reading and processing proteins, as well as implementing techniques like normal mode analysis.  In addition to its many capabilities, Prody is well documented and comes with a ton of examples. 
 
-[MDTraj](http://prody.csb.pitt.edu/) - Do you want to be able to process molecular dynamics (MD) trajectories in Python scripts?  Look no further.  MDTraj can read most trajectory formats and provides a wide array of analysis tools.  Recent work has enabled integration with the RDKit and provided additional capabilities for combining proteins and small molecules in an analysis. 
+[MDTraj](https://www.mdtraj.org) - Do you want to be able to process molecular dynamics (MD) trajectories in Python scripts?  Look no further.  MDTraj can read most trajectory formats and provides a wide array of analysis tools.  Recent work has enabled integration with the RDKit and provided additional capabilities for combining proteins and small molecules in an analysis. 
 
 [ODDT](https://github.com/oddt/oddt) - The Open Drug Discovery Toolkit builds on the RDKit and/or OpenBabel to provide several useful capabilities including protein-ligand interaction fingerprints and a variety of scoring functions. 
 
