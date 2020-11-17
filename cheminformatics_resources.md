@@ -14,7 +14,7 @@ This is a list of some of the Cheminformatics resources that I use.  Rather than
 
 [Machine Learning Mastery](https://machinelearningmastery.com/blog/) - Jason Brownlee writes about machine learning in a very practical, easy to understand fashion.  I've learned so much from his blogs.  I also highly recommend his eBooks.
 
-[Deep Learning for the Life Sciences](https://machinelearningmastery.com/blog/) - A shameless plug for a book I cowrote.  I really do think this is a good resource that is chock full of useful code examples.  Code from the book can be found [here](https://github.com/deepchem/DeepLearningLifeSciences). 
+[Deep Learning for the Life Sciences](https://www.oreilly.com/library/view/deep-learning-for/9781492039822/) - A shameless plug for a book I cowrote.  I really do think this is a good resource that is chock full of useful code examples.  Code from the book can be found [here](https://github.com/deepchem/DeepLearningLifeSciences). 
 
 ### **Blogs**
 
@@ -60,7 +60,7 @@ This is a list of some of the Cheminformatics resources that I use.  Rather than
 
 [Prody](http://prody.csb.pitt.edu/) - Do you want to work with proteins in Python? Then Prody is the tool for you.  Prody provides tools for reading and processing proteins, as well as implementing techniques like normal mode analysis.  In addition to its many capabilities, Prody is well documented and comes with a ton of examples. 
 
-[MDTraj](https://www.mdtraj.org) - Do you want to be able to process molecular dynamics (MD) trajectories in Python scripts?  Look no further.  MDTraj can read most trajectory formats and provides a wide array of analysis tools.  Recent work has enabled integration with the RDKit and provided additional capabilities for combining proteins and small molecules in an analysis. 
+[MDTraj](http://prody.csb.pitt.edu/) - Do you want to be able to process molecular dynamics (MD) trajectories in Python scripts?  Look no further.  MDTraj can read most trajectory formats and provides a wide array of analysis tools.  Recent work has enabled integration with the RDKit and provided additional capabilities for combining proteins and small molecules in an analysis. 
 
 [ODDT](https://github.com/oddt/oddt) - The Open Drug Discovery Toolkit builds on the RDKit and/or OpenBabel to provide several useful capabilities including protein-ligand interaction fingerprints and a variety of scoring functions. 
 
