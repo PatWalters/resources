@@ -12,6 +12,8 @@ This is a list of some of the Cheminformatics resources that I use.  Rather than
 
 [RDKitTutorial](https://github.com/suneelbvs/rdkit_tutorials) - A nice set of Jupyter notebooks from Suneel Kumar BVS with examples of basic molecule manipulations using the RDKit. 
 
+[Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781449323592/) - There are three pillars of data analysis with Python: Pandas, numpy, and Jupyter (see below).  This book by Wes McKinney, the author of Pandas, covers all three.  A course in scientific data analysis should be a requirement for every science undergraduate, and this should be the text. 
+
 [Machine Learning Mastery](https://machinelearningmastery.com/blog/) - Jason Brownlee writes about machine learning in a very practical, easy to understand fashion.  I've learned so much from his blogs.  I also highly recommend his eBooks.
 
 [Deep Learning for the Life Sciences](https://www.oreilly.com/library/view/deep-learning-for/9781492039822/) - A shameless plug for a book I cowrote.  I really do think this is a good resource that is chock full of useful code examples.  Code from the book can be found [here](https://github.com/deepchem/DeepLearningLifeSciences). 
