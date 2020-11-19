@@ -16,7 +16,7 @@ This is a list of some of the Cheminformatics resources that I use.  Rather than
 
 [Machine Learning Mastery](https://machinelearningmastery.com/blog/) - Jason Brownlee writes about machine learning in a very practical, easy to understand fashion.  I've learned so much from his blogs.  I also highly recommend his eBooks.
 
-[Deep Learning for the Life Sciences](https://www.oreilly.com/library/view/deep-learning-for/9781492039822/) - A shameless plug for a book I cowrote.  I really do think this is a good resource that is chock full of useful code examples.  Code from the book can be found [here](https://github.com/deepchem/DeepLearningLifeSciences). 
+[Deep Learning for the Life Sciences](https://www.oreilly.com/library/view/deep-learning-for/9781492039822/) - A shameless plug for a book I cowrote.  I really do think this is a good resource with lots of useful code examples.  Code from the book can be found [here](https://github.com/deepchem/DeepLearningLifeSciences). 
 
 ### **Blogs**
 
